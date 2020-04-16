@@ -4,15 +4,11 @@ https://developer.ibm.com/callforcode/
    
 # Register IBM Cloud for free
 
-https://ibm.biz/BdqrvW
+https://ibm.biz/Bdq2a7
 
-# Get feature code to get more of IBM Cloud
+# COVID-19 Hands-on tutorials
 
-http://tlvfeaturecode.mybluemix.net/
-
-Enter your email & the code is: israeldev
-
-You will get the code and how to insert it to your account.
+https://developer.ibm.com/conferences/c4cdc-take-on-covid19/
 
 # Starter kits 
 
