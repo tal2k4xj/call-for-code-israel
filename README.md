@@ -1,6 +1,6 @@
 # Register IBM Cloud for free
 
-https://ibm.biz/Bdq2a7
+https://ibm.biz/BdqS9Y
 
 # Hands-on workshop tutorial
 
