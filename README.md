@@ -1,10 +1,6 @@
 # Register IBM Cloud for free
 
-https://ibm.biz/BdqS9Y
-
-# Hands-on workshop tutorial
-
-https://developer.ibm.com/tutorials/crisis-communication-chatbot-watson-assistant-webhook-integration-discovery-covid-data/
+https://ibm.biz/Bdqhih
 
 # Call for Code links
 
